@@ -1,7 +1,8 @@
 {
-  "name": "nuxt-ts-todo-app",
+  "name": "nuxt-ts-template",
   "version": "1.0.0",
   "private": true,
+  "author": "Daichi.Okazaki",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
